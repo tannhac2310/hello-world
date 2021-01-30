@@ -1,0 +1,14 @@
+Cau hoi OOP
+1. Cho biet tat ca cac may tram, nhom may tram, trang thai va ghi chu?
+2. Cho biet ten, chuc vu, so dien thoai cua cac nhan vien?
+3. Cho biet so ID, ten tai khoan, nhom nguoi dung va so tien
+(nhung nguoi co so tien thuc te 40000vnd tro len)?
+4. Vi tri may nhung thanh vien da mua thuc an va loai thuc an cua ho?
+5. Tong so thanh vien hien tai va tong so tien ho da nap?
+6. Cho biet Bill co muc tien thu cao nhat, co ID bao nhieu, tai may tram nao
+ngay nao va bao nhieu tien?
+7. Cho biet loai thanh vien, ten, so dien thoai, dia chi, email cua nhung
+thanh vien duoc lap vao ngay 4/1/2020?
+8. Danh sach nhung may order ca ba loai dich vu?
+9. Cho biet doanh thu cua quan vao ngay 4/1/2021?
+10. Sap xep cac loai do uong, thuc an, card theo gia tien?
